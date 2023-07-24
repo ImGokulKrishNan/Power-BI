@@ -1,5 +1,5 @@
-Power BI
-What is Power Bi?
+<h2> Power BI  </h2>
+<p >What is Power Bi? </p> 
 Power Bi is a business intelligence tool which will help you to analyze your data to clean your data and convert that data into visual format where you can create different reports and different dashboards so this is a business intelligence.
 Power Bi Is a Data Visualization and Business Intelligence tool that covert 
 Power bi is a collection of components 
