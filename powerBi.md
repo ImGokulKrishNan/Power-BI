@@ -1,12 +1,12 @@
 <h2> Power BI  </h2>
 <p >What is Power Bi? </p> 
-Power Bi is a business intelligence tool which will help you to analyze your data to clean your data and convert that data into visual format where you can create different reports and different dashboards so this is a business intelligence.
-Power Bi Is a Data Visualization and Business Intelligence tool that covert 
-Power bi is a collection of components 
-•	Power Query
-•	Power Pivot
-•	Power Bi
-•	Power Bi Service
+ <p >Power Bi is a business intelligence tool which will help you to analyze your data to clean your data and convert that data into </p>visual format where you can create different reports and different dashboards so this is a business intelligence.</p>
+  <p> Power Bi Is a Data Visualization and Business Intelligence tool that covert  </p>
+ <p>Power bi is a collection of components  </p>
+ <p>•	Power Query <p>
+ <p>•	Power Pivot </p>
+ <p>•	Power Bi </p>
+ <p>•	Power Bi Service </p>
 
 Power query is a etl tool which will extract transform and load the data or in another language if i say it is for cleaning the data when you have blank records null values empty records or different unclean data it will clean data for visualization.
 Power Pivot is used for data modeling when you have multiple data sources if you want to connect them create relationship between them you can use power pivot.
